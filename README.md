@@ -1,13 +1,14 @@
-﻿JovelBeacon v1.3 (20150219)
+# JovelBeacon v1.3 (20150219)
 
-Linux Server Monitoring Telegram Bot
+## Linux Server Monitoring Telegram Bot
 
-﻿Usage
+### Usage
 
-$ bin/telegram-cli -k tg-server.pub -s beacon/JovelBeacon.lua -d &
+$ bin/telegram-cli -k tg-server.pub -s beacon/jvbeacon.lua -d &
 
 Should have these Folder Tree
-beacon/ - Include JovelBeacon.lua
-beacon/log/ - The folder where logs will be saved.
-beacon/help/ - The folder where help texts are saved.
+beacon/ - Include jvBeacon.lua
+beacon/log/ - The folder where logs will be saved
+beacon/help/ - The folder where help texts are stored
 
+### This is prototype commit, so wait for further instruction.
