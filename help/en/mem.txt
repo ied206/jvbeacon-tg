@@ -1,0 +1,14 @@
+mem [k/m/g] [no/ac/sw]
+
+Print Memory Usage
+
+Options
+k : show in KB
+m : show in MB
+g : show in GB
+no : only Nominal Usage
+ac : only Actual Usage
+sw : only Swap Usage
+nominal : equals no
+actual : equals ac
+swap : equals sw

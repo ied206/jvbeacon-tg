@@ -1,0 +1,12 @@
+cpu [t[sec]] [core[num]]
+
+Print CPU Usage
+
+Options
+t[sec] : measurement interval in second. Default is 1sec. 
+core[num] : display specific core's usage.
+
+Ex) 
+cpu t3
+cpu core3
+cpu t1 core2

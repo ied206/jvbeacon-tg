@@ -1,0 +1,18 @@
+JovelBeacon Command List
+
+Type "help [command]" for detail usage
+Type "help all" for simple overall usage
+
+- ping : pong
+- loadavg : System Load Average
+- cpu : Status of cpus
+- mem : Status of memory
+- disk : Status of disk drive
+- diskio : Speed of disk drive I/O
+- netio : Speed of network I/O
+- users : Numbers of logged in users
+- uptime : How long server has been on
+- lastboot : When server has boot
+- lastlogin : Login logs
+- bclog : JovelBeacon logs
+- help : This help message :-)

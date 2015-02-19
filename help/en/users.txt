@@ -1,0 +1,6 @@
+users [v]
+
+Print number of users are logged in
+
+Options
+v : Print who is logged in.

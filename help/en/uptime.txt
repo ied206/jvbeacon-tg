@@ -1,0 +1,3 @@
+uptime
+
+Print the time passed since the server has boot.

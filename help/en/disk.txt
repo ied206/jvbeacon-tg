@@ -1,0 +1,14 @@
+disk [device]
+
+Print Disk Drive Usage
+
+Options
+list : Print disk drives' usage
+[device] : Print specifed disk drive's usage
+
+If no option is specified, all disks' usage will be printed.
+
+Ex)
+disk list
+disk sda1
+

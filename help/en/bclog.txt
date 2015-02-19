@@ -1,0 +1,12 @@
+bclog [v] [num]
+
+Print JovelBeacon's log.
+
+Options
+v : print verbose log.
+[num] : print [num] logs. Default is 5.
+
+Ex)
+bclog 15
+bclog v
+bclog v 8

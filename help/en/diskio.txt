@@ -1,0 +1,17 @@
+diskio [k/m] [device]
+
+Print Disk Drive IO Usage
+
+Options
+k : print as KB/s (default)
+m : print as MB/s
+list : Print disk drives' list
+[device] : Print specifed disk drive's io
+
+If no option is specified, all disks' io will be printed.
+
+Ex)
+diskio m
+diskio list
+diskio sda1
+diskio m sda1

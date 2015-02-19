@@ -1,0 +1,3 @@
+loadavg
+
+Print Server's Load Average

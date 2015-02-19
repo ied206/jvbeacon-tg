@@ -1,0 +1,18 @@
+JovelBeacon Command List
+
+Type "help [command]" for detail usage
+Type "help all" for simple overall usage
+
+- ping
+- loadavg
+- cpu
+- mem
+- disk
+- diskio
+- netio
+- users
+- uptime
+- lastboot
+- lastlogin
+- bclog
+- help

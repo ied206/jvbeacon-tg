@@ -1,0 +1,9 @@
+lastlogin [v] [num]
+
+Print Server's login log.
+
+Options
+[num] : print [num] logs. Default is 5.
+
+Ex)
+lastlogin 15

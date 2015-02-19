@@ -1,0 +1,4 @@
+ping
+
+Returns pong.
+Useful to find out whether beacon is on or off.

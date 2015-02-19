@@ -1,0 +1,17 @@
+netio [k/m] [list] [iface]
+
+Print network IO usage
+
+Options
+k : print as KB/s (default)
+m : print as MB/s
+list : Print network interfaces
+[iface] : Print specifed interface's network io
+
+If no option is specified, all interface's network io will be printed.
+
+Ex)
+netio m
+netio list
+netio eth0
+netio m eth0

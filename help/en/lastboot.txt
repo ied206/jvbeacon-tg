@@ -1,0 +1,3 @@
+lastboot
+
+Print when the server has boot.
