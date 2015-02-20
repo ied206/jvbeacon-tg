@@ -1,9 +1,11 @@
 # JovelBeacon v1.3 (20150219)
+Linux Server Monitoring Telegram Bot
 
-## Linux Server Monitoring Telegram Bot
+## Dependency
+First, you need vysheng's telegram-cli to use JovelBeacon.
+Follow instruction of [https://github.com/vysheng/tg](https://github.com/vysheng/tg) to install telegram-cli.
 
-### Usage
-
+## Usage
 $ bin/telegram-cli -k tg-server.pub -s beacon/jvbeacon.lua -d &
 
 Should have these Folder Tree
